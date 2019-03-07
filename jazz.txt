@@ -1,3 +1,9 @@
 happy good times
 jazz
 music
+
+just write a new line in the file
+text
+text
+lalal
+
